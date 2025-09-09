@@ -1,2 +1,2 @@
-# finowl-app
-Personal Finance Tracker PWA - FinOwl
+# budgetfree-app
+budgetfree-app
